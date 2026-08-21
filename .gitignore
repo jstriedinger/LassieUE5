@@ -73,3 +73,18 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/STF/Pack03-LandscapePro/Base/MaterialFunctions/v2/MF_TriplanarMappingComponentsFunction_v2.uasset
+Content/STF/Pack03-LandscapePro/Environment/Foliage/GreenTrees/tree05/green-tree05_FoliageType.uasset
+Content/STF/Pack03-LandscapePro/Environment/Foliage/GreenTrees/tree04/green-tree04_FoliageType.uasset
+Content/STF/Pack03-LandscapePro/Environment/Foliage/GreenTrees/tree03/green-tree03_FoliageType.uasset
+Content/STF/Pack03-LandscapePro/Environment/Foliage/GreenTrees/tree01/green-tree01_FoliageType.uasset
+Content/STF/Pack03-LandscapePro/Environment/Foliage/GreenTrees/tree02/green-tree0_FoliageType.uasset
+Content/STF/Pack03-LandscapePro/Base/MaterialFunctions/MF_TriplanarMappingComponentsFunction.uasset
+Content/STF/Pack03-LandscapePro/Environment/Foliage/DeadTrees/tree05/dead-tree05_FoliageType.uasset
+Content/STF/Pack03-LandscapePro/Environment/Foliage/DeadTrees/tree04/dead-tree04_FoliageType.uasset
+Content/STF/Pack03-LandscapePro/Environment/Foliage/DeadTrees/tree03/dead-tree03_FoliageType.uasset
+Content/STF/Pack03-LandscapePro/Environment/Foliage/DeadTrees/tree02/dead-tree02_FoliageType.uasset
+Content/STF/Pack03-LandscapePro/Environment/Foliage/DeadTrees/tree01/dead-tree01_FoliageType.uasset
+Content/STF/Pack03-LandscapePro/Environment/Landscape/Landscape/v2/MI_landscape_pro_v2_no_tesselation_default_triplanar_mapping_Inst.uasset
+Content/STF/Pack03-LandscapePro/Base/MaterialFunctions/v2/MF_TriplanarMappingFunction_v2.uasset
+Content/STF/Pack03-LandscapePro/Base/MaterialFunctions/MF_TriplanarMappingReduceFunction.uasset
